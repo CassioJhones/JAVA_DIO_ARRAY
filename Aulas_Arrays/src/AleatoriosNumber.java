@@ -1,13 +1,13 @@
 import java.util.Random;
 public class AleatoriosNumber {
     public static void main(String[] args) {
-        Random random = new Random();
+        Random random = new Random(); //-- Gera numeros aleatorios
 
-        int[] numerosAleatorios = new int[20];
+        int[] numerosAleatorios = new int[20]; //--Vetor inteiro com 20 espaços
 
             for( int i = 0; i < numerosAleatorios.length; i++ ){
-                int numero = random.nextInt(100);
-                numerosAleatorios[i] = numero;
+                int numero = random.nextInt(100); //--numero aletorios com limite maximo de 100 guardado na var numero
+                numerosAleatorios[i] = numero; //--cada espaço do vetor guardando um aleatorio
             }
 
             System.out.print("\n--Numeros Aletorios: ");
