@@ -1,7 +1,6 @@
 # JAVA_DIO_ARRAY
 
->Extensão do VSCode usada para printar o codigo
->> CodeSnap
+>Extensão do VSCode usada para printar o código: `CodeSnap` mantido por <a href="https://github.com/kufii/CodeSnap">Kufii </a>
 >> https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap
 
 ## Código JAVA - Consoantes
@@ -16,9 +15,8 @@
   <img src="https://user-images.githubusercontent.com/56178855/223477788-dce46369-26c8-4a63-9691-90bdc20f9294.png" width="30%" align="center">
 </div>
 
-## Array Multidimensional
+## Números Aleatórios
 <div style="display:flex; align-items:center; justify-content:top; vertical-align:top;" > 
   <img src="https://user-images.githubusercontent.com/56178855/223479433-40982334-0e68-4971-9666-1640d06a77dd.png" width="50%" align="center">
   <img src="https://user-images.githubusercontent.com/56178855/223479260-5a2d5790-c3a1-4870-aa25-3b2f1f0924df.png" width="50%" align="center">
 </div>
-
